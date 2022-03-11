@@ -1,0 +1,48 @@
+{
+  "name": "mmm-menuepartner",
+  "version": "1.0.0",
+  "description": "MMM-Menuepartner is a 3rd party module for MagicMirror (https://github.com/MichMich/MagicMirror) that shows the current/next day's meals for schools in Germany that are served by Menüpartner.",
+  "main": "node_helper.js",
+  "scripts": {
+    "test": "npm run test:prettier && npm run test:lint",
+    "test:lint": "eslint *.js --config .eslintrc.json",
+    "test:prettier": "prettier --check **/*.{js,json,md,yml}",
+    "lint:prettier": "prettier --write **/*.{js,json,md,yml}",
+    "lint:js": "eslint *.js --config .eslintrc.json --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thobach/MMM-Menuepartner.git"
+  },
+  "keywords": [
+    "essensplan",
+    "mittagessen",
+    "Menüpartner",
+    "Menuepartner",
+    "magicmirror",
+    "magic",
+    "mirror",
+    "module"
+  ],
+  "author": "@thobach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thobach/MMM-Menuepartner/issues"
+  },
+  "homepage": "https://github.com/thobach/MMM-Menuepartner#readme",
+  "dependencies": {
+    "date-fns": "^2.28.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-security": "^1.4.0",
+    "eslint-plugin-standard": "^4.0.1",
+    "prettier": "^2.2.1"
+  }
+}
