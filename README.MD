@@ -7,7 +7,7 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/thobach/MMM-Menuepartner.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/thobach/MMM-Menuepartner/alerts/)
 
 # MMM-Menuepartner
-MMM-Menuepartner is a 3rd party module for [MagicMirror](https://github.com/MichMich/MagicMirror) that shows the current/next day's school lunch options for schools in Germany that are served by Menüpartner.
+MMM-Menuepartner is a 3rd party module for [MagicMirror](https://github.com/MichMich/MagicMirror) that shows the current/next day's school lunch options for schools in Germany that are served by lunch provider Menüpartner.
 
 The idea of this module is to display a current or next day's (depending on the time) lunch options, to let the child know what's for lunch, if lunch was already ordered and if yes, which option. This helps as a reminder, e.g. if the child needs to bring extra food to school for lunch, or needs lunch money. It also helps as a reminder to cancel the order in case of sick-leave. While there is a website and mobile app from the vendor, this module gives more convenience as one doesn't need to pull out the phone from the pocket, unlock it, open the app, etc.
 
