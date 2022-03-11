@@ -1,5 +1,5 @@
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/thobach/MMM-Menuepartner/blob/main/LICENSE)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
 [![Vulnerabilities](https://snyk.io/test/github/thobach/MMM-Menuepartner/badge.svg?)](https://snyk.io/test/github/thobach/MMM-Menuepartner)
 [![Build Status](https://travis-ci.com/thobach/MMM-Menuepartner.svg?branch=master)](https://travis-ci.com/thobach/MMM-Menuepartner)
