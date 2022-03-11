@@ -2,7 +2,7 @@
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/thobach/MMM-Menuepartner/blob/main/LICENSE)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
 [![Vulnerabilities](https://snyk.io/test/github/thobach/MMM-Menuepartner/badge.svg?)](https://snyk.io/test/github/thobach/MMM-Menuepartner)
-[![Build Status](https://travis-ci.com/thobach/MMM-Menuepartner.svg?branch=master)](https://travis-ci.com/thobach/MMM-Menuepartner)
+[![Build Status](https://app.travis-ci.com/thobach/MMM-Menuepartner.svg?branch=main)](https://app.travis-ci.com/thobach/MMM-Menuepartner)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/thobach/MMM-Menuepartner.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/thobach/MMM-Menuepartner/context:javascript)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/thobach/MMM-Menuepartner.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/thobach/MMM-Menuepartner/alerts/)
 
