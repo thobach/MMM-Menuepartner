@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/thobach/MMM-Menuepartner#readme",
   "dependencies": {
-    "date-fns": "^2.29.2"
+    "date-fns": "^2.29.3"
   },
   "devDependencies": {
     "eslint": "^7.24.0",
